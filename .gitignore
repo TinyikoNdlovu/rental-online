@@ -1,0 +1,3 @@
+/plpenv
+.plpenv
+*.postgresql_psycopg2
